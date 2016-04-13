@@ -1,3 +1,3 @@
 # hello-world
 
-Jason here! trying out GitHub for the first time.
+Jason here! Trying out GitHub for the first time.
